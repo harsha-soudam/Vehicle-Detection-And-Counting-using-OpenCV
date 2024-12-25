@@ -14,3 +14,4 @@ Libraries and Tools:
 OpenCV: For computer vision operations
 NumPy: For numerical computations
 Additional libraries: imutils, argparse (install via pip install <library-name>)
+
