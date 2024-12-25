@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 
-
 # Web camera
 cap = cv2.VideoCapture('video.mp4')
 
