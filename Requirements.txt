@@ -1,0 +1,16 @@
+The project requires the following hardware and software:
+
+Hardware
+
+Operating System: Windows or macOS
+RAM: 8 GB or higher
+Processor: Intel Core i3 or higher
+Storage: 512 GB HDD or 512 GB SSD
+
+Software
+
+Programming Language: Python
+Libraries and Tools:
+OpenCV: For computer vision operations
+NumPy: For numerical computations
+Additional libraries: imutils, argparse (install via pip install <library-name>)
