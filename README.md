@@ -18,4 +18,4 @@ This project aims to design and implement a real-time vehicle detection and coun
 * Run the Python script:
     python vehicle_counter.py --input video.mp4
 
-![image](https://github.com/user-attachments/assets/89202b30-d91e-4fe4-9f2f-aaa1fc4ca10e)
+
